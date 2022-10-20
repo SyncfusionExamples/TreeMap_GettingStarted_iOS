@@ -1,6 +1,6 @@
 # TreeMap Getting Started iOS
 
-This repository contains sample for how to get started with the [Syncfusion Xamarin.iOS Tree Map](https://help.syncfusion.com/xamarin-ios/sftreemap/getting-started) control. The TreeMap control provides a simple yet effective way to visualize flat or hierarchical data as clustered rectangles with a specific weighted attribute that determines the size of the rectangle
+This repository contains sample to get started with the [Syncfusion Xamarin.iOS Tree Map](https://help.syncfusion.com/xamarin-ios/sftreemap/getting-started) control. The TreeMap control provides a simple yet effective way to visualize flat or hierarchical data as clustered rectangles with a specific weighted attribute that determines the size of the rectangle
 
 ## Syncfusion controls
 
